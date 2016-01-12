@@ -37,3 +37,8 @@ When a user presses a "calculate button", the result should appear in the green 
 #### Deliverable
 
 ![Screenshot](http://s6.postimg.org/fgnh12ny9/Screen_Shot_2015_08_25_at_13_30_51.png)
+
+#### Submitting Your Calculator
+
+- Create a public GitHub repository with your calculator
+- Send this repository's URL to your GA point of contact
