@@ -1,7 +1,8 @@
 
-In this challenge, you are going to create a calculator with text inputs and buttons. You'll need to handle events and manipulate the DOM to show the result.
 
-## Exercise
+## FEWD CODE CHALLENGE
+
+In this challenge, you are going to create a calculator with text inputs and buttons. You'll need to handle events and manipulate the DOM to show the result.
 
 #### Requirements
 
@@ -26,6 +27,8 @@ The formula for the calculations are as follows:
 When a user presses a "calculate button", the result should appear in the green div for the appropriate calculator section. The elements where the result should be displayed have an ID in the form `#XXX-answer`.
 
 **Bonus:**
+
+- Style this calculator beautifully!
 
 - Hide all the green boxes by default and show only one result at a time, i.e. if the user uses the basic calculator and a result is shown, then when another calculation is made with the trip calculator and the result is shown, the first answer should be automatically hidden.
 
