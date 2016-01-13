@@ -17,7 +17,7 @@ You need to write JavaScript code for four different types of calculators:
 
 The formula for the calculations are as follows:
 
-* The basic calculator should just uses standard arithmetic to calculate the result.
+* The basic calculator should just use standard arithmetic to calculate the result.
 * The trip cost calculator should let you calculate the cost of a trip, taking into account that:
   - when the speed is less than 60, the formula is `distance / mpg * cost`  
   - when the speed is more than 60, the formula is ``distance / (mpg - (speed - 60) * 2) * cost`
